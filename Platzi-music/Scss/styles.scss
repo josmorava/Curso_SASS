@@ -1,5 +1,7 @@
 //Librerias, Settings y Vraiables
 @import "lib/variables";
+@import "lib/mixins";
+
 //Elementos base
 @import "tablas";
 @import "base/botones";
@@ -8,6 +10,9 @@
 
 // Components
 @import "components/grids";
+
+// Layaut
+@import "layaut/layaut";
 
 // Este siempre va de último
 @import "components/utilities";
