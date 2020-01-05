@@ -2,3 +2,7 @@
 p{
     font-size: map-get($fs,normal);
 }
+
+p{
+    z-index: map-get($zi,z-p);
+}
