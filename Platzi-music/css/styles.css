@@ -15,6 +15,9 @@ table tr:hover {
 .btn--info {
   background-color: #42b8dd; }
 
+p {
+  font-size: 16px; }
+
 section {
   max-width: 800px;
   margin-left: auto;
